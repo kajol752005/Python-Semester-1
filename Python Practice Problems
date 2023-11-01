@@ -22,7 +22,7 @@
    ],
    "source": [
     "a=int(input(\"enter the numerator: \"))                                         #input from user of numerator\n",
-    "b=int(input(\"enter the denomnator: \"))                                        #input from user of denominator\n",
+    "b=int(input(\"enter the denominator: \"))                                        #input from user of denominator\n",
     "\n",
     "if b!=0:                                                                      #b is not equals to 0\n",
     "    print(\"a/b=\",a/b)\n",
